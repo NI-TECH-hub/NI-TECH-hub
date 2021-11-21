@@ -1,4 +1,15 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A93F7&size=25&center=true&width=600&lines=Welcome+to+My+Repository+!+Do+Contribute+)](https://git.io/typing-svg)
+
+
+
+
 ### Hi there 👋
+
+
+
+
+
+
 
 <!--
 **NI-TECH-hub/NI-TECH-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
