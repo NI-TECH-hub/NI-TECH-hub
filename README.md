@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A93F7&size=25&center=true&width=600&lines=Welcome+to+My+Repository+!+Do+Contribute+)](https://git.io/typing-svg)
 
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
+<h1 align="center">Hi <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px"> I'm Nikhil Chinchore</h1>
 
-
-
-### Hi there 👋
 
 
 
