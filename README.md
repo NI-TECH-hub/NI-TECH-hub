@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **nikhilchinchore2002@gmail.com**
 
-#  ________________________________________________
+#  ______________________________________________
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ni-tech-hub" alt="ni-tech-hub" /></a> </p>
 
 #  ___________________________________________________________________
