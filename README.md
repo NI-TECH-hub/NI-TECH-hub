@@ -27,7 +27,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ni-tech-hub" alt="ni-tech-hub" /></a> </p>
 
 #  ___________________________________________________________________
-<h3 align="left">Connect with me:</h3>
+##  Connect With Me On &nbsp;&nbsp; <img width = 35px src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/handshake_1f91d.png"/>
 <p align="left">
 <a href="https://linkedin.com/in/nikhil chinchore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-chinchore-098b49201" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nikhilchin123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nikhilchin123" height="30" width="40" /></a>
