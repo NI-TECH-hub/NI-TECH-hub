@@ -10,7 +10,7 @@
 ## About Me <img width = 50px src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-office-worker_1f468-200d-1f4bc.png"/>
 
 
-<div >
+<div align=right>
       <img  align="right" width=300 src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="image"/>
    </div>  
 - 🔭 I’m currently working on [MODERN_BLOG_PROJECT](https://github.com/NI-TECH-hub/MODERN_BLOG_PROJECT)
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **nikhilchinchore2002@gmail.com**
 
-#  ___________________________________________________________________
+#  ___________________________________________________________
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ni-tech-hub" alt="ni-tech-hub" /></a> </p>
 
 #  ___________________________________________________________________
