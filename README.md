@@ -15,13 +15,13 @@
       <img  align="right" width=300 src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="image"/>
    </div>  
    
-- 🔭 I’m currently working on [MODERN_BLOG_PROJECT]
+- 🔭 I’m currently working on **Ecommerce Project**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning *SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NI-TECH-hub](https://github.com/NI-TECH-hub)
 
-- 💬 Ask me about **Data Structures and Algorithms, C++**
+- 💬 Ask me about **Data Structures and Algorithms, ReactJS, SpringBoot**
 
 - 📫 How to reach me **nikhilchinchore2002@gmail.com**
 
